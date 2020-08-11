@@ -1,0 +1,21 @@
+{
+  "name": "pong.io",
+  "version": "1.0.0",
+  "description": "It's a web multiplayer version of the classical game 'Pong'. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "pong",
+    "socket.io",
+    "multiplayer",
+    "classical"
+  ],
+  "author": "Shibly Noman",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^2.3.0"
+  }
+}
