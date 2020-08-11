@@ -8,7 +8,7 @@ This is a multiplayer pong game.
  - node.js
 
 > ### It is simple
-![](./public/pong.PNG)
+![](./public/pongpic.PNG)
 
 > ### Yet I've kept scope for future developmet
 ![](./public/ponguser.PNG)
